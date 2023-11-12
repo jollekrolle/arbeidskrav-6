@@ -1,0 +1,515 @@
+---
+title: "arbeidskrav 6"
+format: html
+
+---
+
+# introduksjon
+
+ 
+Styrketrening har blir en veldig populær måte å trene på. Det er i følge den Norske sportsbransjeforening 65% av alle menn og 55% av alle kvinner mellom 18-29 trener styrketrening (u.n. 2020). Hos mennesker vil den gener, varihet, hyppighet, restitusjon, repitisjoner og antall sett ha en påvirkning på hvordan styrkefremgangen påvirkes (Retamess et al. 2019; Timmons, 2011; Morton et al. 2018; Seaborne et al. 2018). Tiden på treningsprugrammet er ofte en brgrensning hos personer, enten det er jobb, skole eller andre viktige ærener som skal gjøres (Choi et al. 2017). Derfor er det interesant å se hvordan man kan kan optimalisere trening for å få ønkete tilpasninger på så lite tid som mulig. Treningsvolum er en begrensning for tid treningen, og måter som kan kutte ned på volum vil være gunstig for tidsbesparing. 
+
+
+Det er flere studier som har sett på hvordan lavt volum kan gi lik gunstige tilpasninger som et moderat treningsvolum er (Cannon og Marino. 2010; Mitchell et al. 2012). Der de konkluderer med at det ikke er en forskjell mellom lav og moderat treningsvolum (Cannon og Marino. 2010; Mitchell et al. 2012). Studier som motsier dette er Rønnestad og Rhea som finner forskjeller mellom lavt og moderat treningsvolum på underekstrimitetene (Rønnestad et al., 2007, s. 157-163; Rhea et al., 2002, s. 525–529). 
+
+Det derfor vil det være interessant å se på hvordan lavt og moderat trenings stimuli vil kunne påvirke tilpasninger. Spørsmålet vi stiller oss er: "Hvordan kan et- og tresett påvirke mager masse og muskelstyrken i kneeekstensjon?".
+ 
+ 
+
+
+
+
+
+
+# Metode
+
+ 
+## Deltagere og studiedesign 
+
+41 menn og kvinner ble rekruttert i studien. Deltakeren var røykfrie og i alderen mellom 18-40 år. Kvalifikasjonskravene for deltakerne var intolerant mot lokalbedøvelse, ikke trent mer enn en styrke økt i uka de siste 12 månedene, muskelstyrken måtte være nedsatt på grunn av nåværende og tidligere skader og inntak av medisiner som kan påvirke tilpasningene til styrketrening. Sju av deltakeren ble ekskludert fra dataanalysen fordi de minst 85% av øktene. Grunnen til dette er at fem personer fikk smerter under trening, en fikk skade som ikke var relatert til studien og en overholdet ikke protokollen. Blant de deltakeren var det en som avslo fra å ta biopsi i uke to og tre som ikke fikk tatt blodprøve på grunn av vansker med prøvetaking. Deltakeren hadde tidligere erfaring fra lagsport, langrenn og turn. 20 av deltakeren rapporterte om at det var engasjert i trening da de meldte seg på. Intervensjonen varte i 12 uker. Treningen på beina ble gjort unilateralt for at de kan trene på forskjellig volum på hvert ben. Hos hver person fikk hvert ben et sitt stimuli (et sett og tre sett). Det vil si at hver deltaker gjennomførte begge protokollene. Muskelstyrke vle vurdert ved uke 3, 5 og 9) og etter trenings intervensjonen. Kroppssammensetningen ble målt før og etter trneingsintervensjonen. Dette ble gjort med DXA scan. Muskelbiopsi ble tatt fire ganger i intervensjonen (vastus lateralis): uke null, en time før første økt, etter treningsøkt nr. 5, og etter intervensjonen i uthvilt tilstand. Fra om med uke seks loggførte deltakerene kosten i 4-5 dager etter hviledag en. 
+
+## styrketreningsprotokoll 
+
+Før hver trenigsøkt besto oppvaringen av 5 min på ergometersykkel (borg skala 12-14), etter de å ha syklet 5 min var neste del av oppvarmingen 10 pushups. Siste del av oppvarmingen vi ca. 50% av 1RM for hver øvelse. Beinøvelsene ble gjennomført på i denne rekkefølgen: unilateralt beinpress, kneefleksjon og kneekstensjon, et sett (singelsett) og fire sett (multisett) per øvelse. Singelsettet bel gjennomføre mellom det andre og tredje settet på multidettet. Etter beinøvelsene hjnenomførte deltakerene bilaterale benkpress, nedtrekk og enten skulder press eller sittende roing. Hvileperioden var mellom 90-180 sek. Treinngns intensiteten bel gradevis økt gjennom intervensjonen, de startet med 10RM de 2 første ukene, etterfulgt 3 uker med 8RM og 7 RM i 7 uker. For å best mulig tilpasse treningen til deltakerens dagsplan ble noen av øktene gjennomført uten tilsyn, 91% av alle øktene ble gjennomført med tilsyn. Da det ikke var noe tilsyn, ble deltakerne bedt om å føre detaljerte logger. Disse ble kontrollert av forskerteamet sammen med deltakerne for å sikre progresjon og etterlevelse av protokollen. Fra den niende treningsøkten hadde hver uke som inneholdt tre økter en økt med redusert belastning, tilsvarende 90 % av forrige økt med samme mål antall repetisjoner. Treningsøkter med maksimal innsats var dte minst 48 timer mellom hver. Treningsøkter med submaksimal innsats (90 %) ble atskilt fra andre økter med minst 24 timer. For å hjelpe til med umiddelbar restitusjon ble det gitt en standardisert drinke etter hver økt som inneholdt 0,15 g kg−1 protein, 11,2 g kg−1 karbohydrater og 0,5 g kg−1 fett.
+
+
+## Styrketester
+
+Isokinetisk og isometrisk unilateral knefleksjon ble vurdert i et dynamometer (Cybex 6000, Cybex International, Medway, MA, USA). Deltakerne ble sittende og sikret i dynamometeret med kneleddet på linje med dynamometerets rotasjonsakse. Maksimalt isokinetisk dreiemoment ble vurdert ved tre vinkelhastigheter (60°, 120° og 240° neweton-meter per sek). Før testing ble deltakerne informert om testprotokollen ved å utføre tre submaksimale anstrengelser ved hver vinkelhastighet. Deltakerne fikk to forsøk på 60° og tre forsøk på 120 og 240° i denne rekkefølge. Den høyeste verdien ble brukt for statistiske analyser. Etter isokinetisk testing ble maksimalt kontraksjonsmoment (MVC) vurdert ved en knevinkel på 30°. Deltakerne ble bedt om å skyve med maksimal kraft mot spaken i 5 sek. Deltakerne fikk to forsøk, med 30 sek hvile i mellom. Den høyeste verdien ble brukt for analyser.
+
+Maksimal styrke ble vurdert som én repetisjonsmaksimum (1RM) i unilateral benpress og kneekstensjon. Hver testøkt startet med en spesifikk oppvarming med 10, 6 og 3 repetisjoner på 50, 75 og 85 % av forventet maksimum. 1RM bel funnet ved å øke motstanden gradvis inntil vekten ikke kunne utføre i hele bevegelses banen. For hver øvelse ble den høyeste belastningen som ble forsøkt definert som 1RM. Hver deltaker fikk fire til seks forsøk.
+
+
+Ved baseline ble 1RM, isokinetiske og isometriske styrkevurderinger utført to ganger, med minst 4 dager hvile. Den høyeste verdien oppnådd for hver av testene ble brukt i analyse. Styrketestene ble atskilt med minst 48 timer fra tidligere treningsøkter. En undergruppe av deltakerne (n = 18) utførte styrkevurdering i løpet av studien (i uke 2, 5 og 9). For de resterende deltakerne ble ordinære treningsøkter prioritert når deltakerne gikk glipp av trening eller testing på grunn av sykdom eller planleggingsvansker.
+
+
+## Kroppsamensetning
+
+Kroppssammensetningen ble gjennomført før og etter intervensjonen av dual-energy røntgenabsorptiometri (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norge), i henhold til standard protokoll. Før DXA-målinger skulle deltakerene faste i 2 time og ingen fysisk krevende aktivitet siste 48 timer. Kroppssammensetningsmålinger ble gjort dager etter siste treningsøkt.
+
+
+# Dataanalyse 
+
+I denne studuen er det gjort en t-test i R-studio. 
+
+
+
+# Resultat 
+
+ - Beskriv resultatene av analysen din. Denne beskrivelsen skal gjøre bruk av tabell og figurer samt en tekst som veileder og strukturerer innholdet til leseren. Tenk på det på denne måten, teksten skal beskrive når og hvordan du skal lese figurene og tabellene. Dette betyr at alle aspekter ved resultatene skal dekkes i teksten. Figurene og tabellene skal også være "selvforklarende", dette betyr at du må inkludere beskrivende figurtekster og beskrivelser av tabeller (se nedenfor for tips).
+ 
+  - Ettersom hovedformålet med analysen bør omhandle effekten av treningsvolum på muskelmasse og styrke, er det naturlig at sammenligning av treningsresultater mellom volumforhold er hovedanalysen i resultatene. Du kan også ha spørsmål angående sammenhengen mellom muskelstyrke og masseøkning, om det er forskjeller mellom menn og kvinner etc. Valg av statistiske/analyseteknikker bør reflektere studiespørsmålet/formålet.
+  
+  
+##
+
+```{r}
+#| warrnings: false
+#| messege: false
+#| echo: false 
+
+library(exscidata)
+library(dplyr)
+library(ggplot2)
+library(lme4)
+library(tidyverse)
+
+```
+
+
+```{r}
+
+#| warrnings: false
+#| messege: false
+#| echo: false 
+
+## styrkevolum 
+
+ 
+
+
+data("strengthvolume")
+
+strengthvolume %>%
+  distinct(exercise)
+
+
+
+## Exploratory plot of strength data 
+
+str <- strengthvolume %>%
+  filter(include == "incl") %>%
+  mutate(time = factor(time, levels = c("pre", "session1", 
+                                        "week2", "week5", 
+                                        "week9", "post"))) %>%
+  print()
+
+
+str %>%
+  ggplot(aes(time, 
+             load, 
+             group = paste(participant, sets), 
+             color = sets)) + 
+  geom_line() + 
+  facet_wrap(~ exercise, scales = "free")
+  
+
+## How many measurements per participant
+
+str %>%
+  filter(!is.na(load)) %>%
+  group_by(participant, exercise, sets) %>%
+  summarise(n = n() ) %>%
+  ggplot(aes(n, participant, color = sets)) +
+  geom_point() + 
+  facet_wrap(~ exercise) + 
+  theme(axis.text.y = element_blank())
+
+
+
+## Use pre and post data 
+# Combine pre data prior to data analysis
+# per exercise, leg, participant, and sets
+
+str %>%
+  mutate(time = if_else(time %in% c("pre", "session1"), "pre", time)) %>%
+  
+  filter(time %in% c("pre", "post")) %>%
+  
+  summarise(load = max(load, na.rm = TRUE), 
+            .by = c(participant, 
+                    sex, 
+                    time, 
+                    sets,
+                    exercise,
+                    leg)) %>%
+  
+  print()
+
+
+
+
+# det Christian sendte
+
+# Filter and mutate the main data frame
+str <- strengthvolume %>%
+  filter(exercise == "legext", include == "incl") %>%
+  mutate(time = factor(time, levels = c("pre", "session1", "week2", "week5", "week9", "post"))) %>%
+  print()
+
+# Filter out participants with missing data
+str <- str %>%
+  filter(!is.na(load))  # assuming "load" is the variable you are concerned about
+
+# Create a separate data frame for single sets
+str_single <- str %>%
+  filter(sets == "single")
+
+# Create a separate data frame for multiple sets
+str_multiple <- str %>%
+  filter(sets != "single")
+
+# Plot for multiple sets
+ggplot(str_multiple, aes(time, load, group = paste(participant, sets), color = participant, fill = sets)) + 
+  geom_line() + 
+  stat_summary(fun = mean, geom = "line", aes(group = 1), color = "black", linetype = "dashed") +
+  facet_wrap(~ exercise, scales = "free") +
+  ggtitle("Multiple Sets")
+# Plot for single set
+ggplot(str_single, aes(time, load, group = participant, color = participant)) + 
+  geom_line() + 
+  stat_summary(fun = mean, geom = "line", aes(group = 1), color = "black", linetype = "dashed", size = 1) + 
+  
+  # Øk størrelsen (size) etter behov
+  facet_wrap(~ exercise, scales = "free") +
+  ggtitle("Single Set")
+
+
+avg_percent_increase <- str_single %>%
+  group_by(sets = "single") %>%
+  summarize(avg_percent_increase = round(((mean(load[time == "post"]) - mean(load[time == "pre"])) / mean(load[time == "pre"])) * 100, 1))
+
+avg_percent_increase_multiple <- str_multiple %>%
+  group_by(sets) %>%
+  summarize(avg_percent_increase = round(((mean(load[time == "post"]) - mean(load[time == "pre"])) / mean(load[time == "pre"])) * 100, 1))
+
+avg_percent_increase_table <- bind_rows(
+  avg_percent_increase,
+  avg_percent_increase_multiple
+)
+
+percent_difference <- avg_percent_increase_table %>%
+  spread(sets, avg_percent_increase) %>%
+  mutate(percent_difference = round(((multiple - single) / single) * 100, 1)) %>%
+  gather(key = "sets", value = "avg_percent_increase", -percent_difference) %>%
+  select(sets, avg_percent_increase, percent_difference) %>%
+  arrange(desc(percent_difference)) 
+
+
+print(percent_difference)
+
+
+from scipy import stats
+
+# Anta at 'str' er to lister med data for 'multiple' og 'single'
+data_multiple = [data_point1, data_point2, ...]  # Legg inn faktiske data her
+data_single = [data_point1, data_point2, ...]  # Legg inn faktiske data her
+
+# Gjennomfør uavhengig t-test
+t_statistic, p_value = stats.ttest_ind(data_multiple, data_single)
+
+# Skriv ut resultatene
+print("t-statistic:", t_statistic)
+print("p-value:", p_value)
+
+
+
+```
+
+
+
+
+```{r}
+## dexadata
+
+data("dxadata")
+
+
+
+#| label: "Load packages and data"
+#| warning: false
+#| message: false
+#| echo: false
+#| output: false
+
+
+## Import data set, extract leg lean mass per leg and remove observations
+# that are include == "excl".
+
+leanmass <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(include == "incl") %>%
+  
+
+  ## Change levels for time and sets
+  mutate(time = factor(time, levels = c("pre", "post")), 
+         sets = factor(sets, levels = c("single", "multiple")), 
+         leg = paste0(participant, leg)) %>%
+  
+  print()
+
+
+# Create a wide data set of change scores per volume condition
+# suitable for a t-test
+leanmass_change_wide <- leanmass %>%
+  pivot_wider(names_from = time, values_from = lean.mass) %>%
+  mutate(change = post - pre) %>%
+  
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  
+  mutate(diff = multiple - single) %>%
+  
+  print()
+
+
+leanmass_change_wide_time <- leanmass %>%
+  pivot_wider(names_from = time, values_from = lean.mass) %>%
+
+  select(participant, sex, sets, pre, post) %>%
+  
+  print()
+
+
+
+
+## Do a t-test on change scores per condition. 
+
+## Alternatives (paired, equal variation)
+tt1 <- with(leanmass_change_wide, t.test(multiple, single, paired = TRUE))
+
+## The same model but with lm
+m1 <- lm(diff ~ 1, data = leanmass_change_wide)
+
+summary(m1)
+
+
+
+
+### Mixed effects model
+# A mixed effects model allowing for a random slope for time is very similar 
+# to the t-test used above. 
+
+m2 <- lmer(lean.mass ~ time * sets +( 1 + time |participant), 
+           data = leanmass)
+
+# Check the summary 
+summary(m2)
+# Check assumptions of equal residual variance
+plot(m2)
+
+## Mixed-Effects ANCOVA
+
+# The lm model does not contain information on multiple
+# observations per participant
+m3 <- lm(post ~ pre + sets, data = leanmass_change_wide_time)
+
+
+# A more correct model also include random intercepts per 
+# participant. Mixed effects ANCOVA mnodel:
+m4 <- lmer(post ~ pre + sets + (1|participant), 
+           data = leanmass_change_wide_time)
+
+
+summary(m3)
+
+summary(m4)
+
+
+
+### How to extract data from a model:
+
+# m1 is a linear model of difference in differences
+# we can use it for inference, extract average diff and confidence 
+# intervals and p-value
+
+# Save all elements of inline results
+m1pval <- round(coef(summary(m1))[1, 4], 3)
+m1est <- round(coef(summary(m1))[1, 1], 1)
+
+m1ciu <- round(confint(m1)[1,2], 1)
+m1cil <- round(confint(m1)[1,1], 1)
+
+# Combine into an object
+m1results <- paste0(m1est, 
+                    ", 95% CI: [",
+                    m1cil, 
+                    ", ",
+                    m1ciu, 
+                    "], p = ",
+                    m1pval
+                    )
+
+
+
+dat <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+        
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+
+          filter(include == "incl") %>%
+
+        pivot_wider(names_from = "time", 
+                    values_from = "lean.mass") %>%
+
+        mutate(change = post - pre) %>%
+        
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change)
+
+
+
+#  t-test og tabell
+
+t_test_result <- t.test(dat$multiple, dat$single, paired = TRUE)
+
+result_table <- data.frame(
+  statistic = t_test_result$statistic,
+  p_value = t_test_result$p.value,
+  df = t_test_result$parameter
+)
+
+print(result_table)
+
+
+
+leanmass <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(include == "incl")
+
+
+# Create a wide data set of change scores per volume condition
+# suitable for a t-test
+
+leanmass <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(include == "incl") %>%
+  print()
+  
+
+
+# Create a wide data set of change scores per volume condition
+# suitable for a t-test
+leanmass_change_wide <- leanmass %>%
+  pivot_wider(names_from = time, values_from = lean.mass) %>%
+  mutate(change = post - pre) %>%
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  mutate(diff = multiple - single)
+## The same model but with lm
+m7 <- lm(diff ~ 1, data = leanmass_change_wide)
+
+summary(m7)
+
+
+
+```
+
+
+```{r}
+leanmass <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(include == "incl")
+
+
+# Create a wide data set of change scores per volume condition
+# suitable for a t-test
+leanmass_change_wide <- leanmass %>%
+  pivot_wider(names_from = time, values_from = lean.mass) %>%
+  mutate(change = post - pre) %>%
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  mutate(diff = multiple - single)
+## The same model but with lm
+m1 <- lm(diff ~ 1, data = leanmass_change_wide)
+
+summary(m1)
+
+
+
+```
+
+
+
+
+
+# Diskuskon 
+
+
+ - Strukturer diskusjonen med et første avsnitt som beskriver hovedresultatene av analysen, dette kan være svaret på spørsmålet ditt eller en påstand angående studiens hypotese. I de følgende avsnittene diskuterer du alle resultatene du har presentert i lys av tidligere studier. Det er din jobb å gi leseren plausible tolkninger og forklaringer på resultatene dine. Slik er enkeltvitenskapelige resultater inkorporert i vår kollektive forståelse. Disse tolkningene kan senere utfordres, men hvis du gir leseren gode argumenter og klare beskrivelser, vil din innsikt være verdifull for kollektiv resonnement selv om den viser seg å være feil i lys av ny data
+ 
+ 
+Formålet med studien er i svare på "Hvordan kan et- og tresett påvirke mager masse og muskelstyrken i kneeekstensjon?". Vi kan se i resultatet at muskelstyrken i 1RM økte med 56% på multi sett og 52% på singel sett. I andre randomiserte studier som har sett på en forskjell lavt og moderat trneingsvolum er (Rønnestad et al., 2007, s. 157-163). Der finner de en forskjell i kneekstensjon, med tilnærmet likt trenigsvolum og treningsprogram. Eneste store forskjell er at Rønnestad har en uke kortere intervensjon, progresjonen i intervensjonen er helt lik som vår studie. Forskjellen i kneefleksjon vil defor underbygge våre resultater som sier at multisett gir bedre tilpassniger på maksimal styrke. På den andre siden viser studier at et lavt og moderat trenigsvolum viser til lik økning i muskelvolum, dette (Cannon og Marino. 2010; Mitchell et al. 2012). En av grunnene skal ta økningen i hos Mitchell kan være være at trneingsbelastnigen ikke var like stor som vi har gjort i denne studien (Mitchell et al. 2012). I studien til Mitchell trente deltakeren på 80% av 1RM til utmattelse, grunnen til det Mitchell ikke finner en forskjell vil kunne være for lav stimuli (Mitchell et al. 2012). 
+
+# Mager masse
+
+Analysen fra DXA viser at det er en forskjell på 122,79g i fremgang hvor moderatvolum gir den største fremgangen (p=0,035). Dette støttes også oppunder av (Rønnestad et al., 2007)
+
+
+
+
+
+ - Avslutt diskusjonen med en oppsummering eller konklusjon. Noen tidsskrifter ber om at du oppgir dine konklusjoner under en bestemt overskrift på slutten av rapporten/artikkelen.
+
+# konklusjon 
+
+Ut fra denne 
+
+
+
+
+## Kilder 
+
+https://sportsbransjen.no/nyhetsarkiv/slik-er-nordmenns-helse-og-treningsvaner
+
+https://journals.physiology.org/doi/full/10.1152/japplphysiol.00934.2010
+
+https://bjsm.bmj.com/content/52/6/376
+
+https://www.nature.com/articles/s41598-018-20287-3
+
+https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP278455
+
+https://link.springer.com/content/pdf/10.1186/s12889-017-4255-2.pdf
